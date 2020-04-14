@@ -1,10 +1,10 @@
 ---
-title: Getting Started
-subtitle: Get Up and Running with Awake
+title: Customer Success Metrics
+subtitle: That you should care about
 category:
-  - About Awake
-author: Daniel Kelly
-date: 2019-08-03T19:59:59.000Z
+  - Customer-Success
+author: Ajay Sharma
+date: 2020-04-13
 featureImage: /uploads/getting-started-hero.jpg
 ---
 Awake is a Nuxt.js template for generating a beautifully robust static site with blog. 
@@ -16,7 +16,7 @@ Awake is a Nuxt.js template for generating a beautifully robust static site with
 * Statically generated API for posts and categories
 * Disqus powered comments
 * Mailchimp powered newsletter
-* Highly customizable with out of the box configurations
+* Highly customizable with out of the box configurations  
 * Built with performance in mind
 * Isolated Netlify CMS driver (with more CMS drivers planned for future) for easily migrating between various headless cms'
 * Images automatically resized for various screens and given srcsets
